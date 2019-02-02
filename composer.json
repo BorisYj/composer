@@ -1,0 +1,8 @@
+{
+    "name": "my/composer",
+    "description": "study composer",
+    "type": "php",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
